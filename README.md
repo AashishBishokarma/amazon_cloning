@@ -1,5 +1,5 @@
 # Amazon Clone
-![image](https://github.com/AashishBishokarma/amazon_cloning/assets/118736443/2a735bd0-9146-4f79-959a-0c272a46d663)
+![Screenshot_3-6-2024_121943_](https://github.com/AashishBishokarma/amazon_cloning/assets/118736443/75890a00-3338-4f04-8692-e45e592ffc85)
 
 
 ## Table of Contents
