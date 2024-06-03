@@ -8,8 +8,7 @@
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Lessons Learned](#lessons-learned)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 This is a clone of the Amazon website, designed to mimic its structure and functionality using HTML and CSS. The project includes a navigation bar, search functionality, product categories, and a responsive design.
@@ -32,3 +31,16 @@ To get a local copy up and running follow these simple steps:
 1. **Clone the repo**
    ```sh
    git clone https://github.com/AashishBishokarma/amazon_cloning
+2. **Open the project**
+Navigate to the project directory and open index.html in your preferred web browser.
+
+## Lessons Learned
+Working on this project provided me with valuable insights into:
+
+1. **HTML & CSS Fundamentals:** Improved understanding of web development basics.
+2. **Responsive Design:** Learned techniques to make the site adaptable to different screen sizes.
+3. **Font Awesome Integration:** Gained experience in using scalable vector icons.
+4. **Component Layout:** Developed skills in creating modular and reusable components.
+5. **CSS Flexbox/Grid:** Utilized modern CSS techniques for creating flexible layouts.
+6. **Project Structuring:** Enhanced my ability to organize project files and code effectively.
+
