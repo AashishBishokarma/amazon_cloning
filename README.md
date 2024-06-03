@@ -29,4 +29,4 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/AashishBishokarma/amazon_cloning
